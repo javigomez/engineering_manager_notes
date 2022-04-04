@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+topics that are relevant for management and linked articles:
 
-You can use the [editor on GitHub](https://github.com/javigomez/engineering_manager_notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+{:toc}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Scorecard
+Engineering Manager Scorecard example https://dropbox.github.io/dbx-career-framework/m3_engineering_manager.html
 
-### Markdown
+# Project Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## JIRA
 
-```markdown
-Syntax highlighted code block
+### blocked status
+If we create a 'blocked' state, then we're also accepting it, and we just created the equivalent of an [Somebody else's problem](https://en.wikipedia.org/wiki/Somebody_else%27s_problem), an opportunity to diffuse responsibility.
+## Handoff
+In general, handoff whatever doesn´t fulfill your team goal anymore
 
-# Header 1
-## Header 2
-### Header 3
+Successful Project Handoff:
+- Pair with the new owner
+- Document properly
+- transfer a roadmap
+- document decissions so the new owner has context
+Notes from: https://medium.com/elevator-up/how-to-plan-a-successful-project-handoff-c78a90a375f6
 
-- Bulleted
-- List
+## Roadmap
+TODO
 
-1. Numbered
-2. List
+## Prioritization
+- See the Reach Impact Conficence Effort (RICE Framework): https://www.productplan.com/glossary/rice-scoring-model/#:~:text=The%20RICE%20scoring%20model%20is,impact%2C%20confidence%2C%20and%20effort and https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# People Management
+## Scorecard
+Setting right expectations to every position is key. There should be always a position definition
+Examples at https://dropbox.github.io/dbx-career-framework/
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Career laddering
+- ask people where they’d like to be in five years
+- self-assess the progress they’ve made on each item
+- 30/60/90 plan. Start from the 90
+- Iteration and reflection
+Notes from: https://css-tricks.com/the-importance-of-career-laddering/
 
-### Jekyll Themes
+# Engineering
+## Dependencies
+Don’t unify tracking tools. Don’t make coordination smoother. Make delivery smoother! by strengthening boundaries. Source https://jessitron.com/2021/08/02/better-coordination-or-better-software/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javigomez/engineering_manager_notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Technical Roadmap
+Type of things in a technical roadmap:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- tools for reducing the toil (reducing manual processes)
+- technical debt (for example standards adoption)
+- Technical challenges that we need to solve before we can do a product feature (spikes)
