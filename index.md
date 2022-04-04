@@ -1,3 +1,5 @@
+see: https://javigomez.github.io/engineering_manager_notes/
+
 topics that are relevant for management and linked articles:
 
 {:toc}
