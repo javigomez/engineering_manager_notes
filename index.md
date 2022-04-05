@@ -29,8 +29,23 @@ TODO
 ## Prioritization
 - See the Reach Impact Conficence Effort (RICE Framework): https://www.productplan.com/glossary/rice-scoring-model/#:~:text=The%20RICE%20scoring%20model%20is,impact%2C%20confidence%2C%20and%20effort and https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/
 
+# Change Management
+## Decision making
+DACI and RACI for better decision-making and responsibility https://www.kevanlee.com/articles/daci-raci-frameworks
+
+# Teams Management
+## Ceremonies
+## Team Scorecard
+TODO
+
+
+### Team Health Check
+Measure teams health once every quarter https://echometerapp.com/en/spotify-health-check-model/
 
 # People Management
+### 1n1
+TODO
+
 ## Scorecard
 Setting right expectations to every position is key. There should be always a position definition
 Examples at https://dropbox.github.io/dbx-career-framework/
