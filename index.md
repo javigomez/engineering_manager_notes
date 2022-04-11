@@ -34,6 +34,12 @@ TODO
 DACI and RACI for better decision-making and responsibility https://www.kevanlee.com/articles/daci-raci-frameworks
 
 # Teams Management
+
+## Hiring
+
+### Hiring Problem Solvers
+The expectation from developers at traditional companies is to complete assigned work. At Modern companies, it's to solve problems that the business has: https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
+
 ## Ceremonies
 ## Team Scorecard
 TODO
