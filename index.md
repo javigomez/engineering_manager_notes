@@ -37,8 +37,11 @@ DACI and RACI for better decision-making and responsibility https://www.kevanlee
 
 ## Hiring
 
-### Hiring Problem Solvers
-The expectation from developers at traditional companies is to complete assigned work. At Modern companies, it's to solve problems that the business has: https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
+### Hire Problem Solvers not ninja's!
+The expectation from developers at traditional companies is to complete assigned work (ninjas). At Modern companies, we look for people capable of solving problems that the business has: https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
+
+###
+https://www.themuse.com/advice/behavioral-interview-questions-answers-examples
 
 ## Ceremonies
 ## Team Scorecard
