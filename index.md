@@ -50,7 +50,7 @@ TODO
 Measure teams health once every quarter https://echometerapp.com/en/spotify-health-check-model/
 
 # People Management
-### 1n1
+## 1n1
 TODO
 
 ## Scorecard
