@@ -38,18 +38,18 @@ DACI and RACI for better decision-making and responsibility https://www.kevanlee
 ### Hire Problem Solvers not ninja's!
 The expectation from developers at traditional companies is to complete assigned work (ninjas). At Modern companies, we look for people capable of solving problems that the business has: https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
 
-###
+### Behavioral interview questions
 https://www.themuse.com/advice/behavioral-interview-questions-answers-examples
 
 ## Ceremonies
-## Team Scorecard
-TODO
-
-
 ### Team Health Check
 Measure teams health once every quarter https://echometerapp.com/en/spotify-health-check-model/
 
+## Team Scorecard
+TODO
+
 # People Management
+
 ## 1n1
 TODO
 
@@ -65,6 +65,8 @@ Examples at https://dropbox.github.io/dbx-career-framework/
 Notes from: https://css-tricks.com/the-importance-of-career-laddering/
 
 ## Feedback
+Give and ask! for feedback. Is a great tool for growth
+
 ### SBI Model
 Situation, Behavior and Impact Model
 see: https://worldofwork.io/2019/07/sbi-feedback-model/
@@ -75,6 +77,14 @@ see: https://www.radicalcandor.com/introduce-radical-candor-feedback/
 ### NVC
 Non violent communication: i) observations, ii) feelings, iii) needs, and iv) requests.
 see: https://reqtest.com/general/giving-feedback-using-nonviolent-communication/
+
+## Active listening
+- Pay Attention (and Show It)
+- Reflect What You Hear
+- Withhold Judgment
+- Ask Open-Ended Questions
+- Be Patient, don't interrupt
+see: https://www.verywellmind.com/what-is-active-listening-3024343
 
 # Engineering
 ## Dependencies
