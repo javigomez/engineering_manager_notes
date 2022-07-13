@@ -33,6 +33,14 @@ DACI and RACI for better decision-making and responsibility https://www.kevanlee
 
 # Teams Management
 
+## Goals
+### Smart Goals
+Specific, Measurable, Achievable, Realistic, and Timely. 
+see: https://corporatefinanceinstitute.com/resources/knowledge/other/smart-goal/
+
+### OKRs
+TODO
+
 ## Hiring
 
 ### Hire Problem Solvers not ninja's!
