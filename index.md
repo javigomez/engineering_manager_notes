@@ -66,6 +66,18 @@ Examples at https://dropbox.github.io/dbx-career-framework/
 - Iteration and reflection
 Notes from: https://css-tricks.com/the-importance-of-career-laddering/
 
+## Feedback
+### SBI Model
+Situation, Behavior and Impact Model
+see: https://worldofwork.io/2019/07/sbi-feedback-model/
+
+### Radical Candor
+see: https://www.radicalcandor.com/introduce-radical-candor-feedback/
+
+### NVC
+Non violent communication: i) observations, ii) feelings, iii) needs, and iv) requests.
+see: https://reqtest.com/general/giving-feedback-using-nonviolent-communication/
+
 # Engineering
 ## Dependencies
 Don’t unify tracking tools. Don’t make coordination smoother. Make delivery smoother! by strengthening boundaries. Source https://jessitron.com/2021/08/02/better-coordination-or-better-software/
