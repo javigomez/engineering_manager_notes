@@ -2,8 +2,6 @@ see: https://javigomez.github.io/engineering_manager_notes/
 
 topics that are relevant for management and linked articles:
 
-{:toc}
-
 # Scorecard
 Engineering Manager Scorecard example https://dropbox.github.io/dbx-career-framework/m3_engineering_manager.html
 
