@@ -94,6 +94,15 @@ see: https://reqtest.com/general/giving-feedback-using-nonviolent-communication/
 - Be Patient, don't interrupt
 see: https://www.verywellmind.com/what-is-active-listening-3024343
 
+# Coorporate changes
+## Reorg
+- Communicate when the time is right, and not before.
+- Learn the company’s goals for the reorg and ask questions.
+- Share ideas, and advocate for yourself and others.
+- Think about how your team is likely to react, and tailor your communication to account for that.
+- And whatever you do, don’t add to the drama.
+see: https://leaddev.com/managing-time-crisis/how-handle-reorganization-engineering-manager?utm_source=ActiveCampaign&utm_medium=email&utm_content=How+to+handle+a+reorganization+as+an+engineering+manager
+
 # Engineering
 ## Dependencies
 Don’t unify tracking tools. Don’t make coordination smoother. Make delivery smoother! by strengthening boundaries. Source https://jessitron.com/2021/08/02/better-coordination-or-better-software/
